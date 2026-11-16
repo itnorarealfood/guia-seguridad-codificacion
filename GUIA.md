@@ -1,6 +1,6 @@
 # Construir una aplicación segura y escalable
 
-Versión 1.0.1 · 16 de noviembre de 2026
+Versión 1.0.2 · 16 de noviembre de 2026
 
 ## 1. Definir antes de construir
 

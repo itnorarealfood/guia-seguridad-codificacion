@@ -1,6 +1,6 @@
 # Guía estándar para construir aplicaciones seguras y escalables
 
-Versión **1.0.1** · 16 de noviembre de 2026
+Versión **1.0.2** · 16 de noviembre de 2026
 
 Esta página contiene la guía completa y la checklist de entrega. Sus reglas se pueden aplicar a cualquier aplicación, con independencia del producto, lenguaje o framework.
 
@@ -225,8 +225,10 @@ Facilita esta guía junto con los requisitos y las decisiones del proyecto. Las 
 - [CHECKLIST.md](CHECKLIST.md): la checklist como archivo independiente.
 - [FUENTES.md](FUENTES.md): nota breve de procedencia y decisiones; su consulta es opcional para utilizar la guía.
 
-La guía se conserva en un repositorio privado y archivado. Mientras siga archivado, su contenido es de solo lectura. Un administrador con capacidad para desarchivarlo puede habilitar cambios.
+Este repositorio es la **fuente de verdad** de la guía. Los documentos están guardados como archivos completos y versionados: al descargar el repositorio en ZIP, se incluyen todos y se pueden leer sin conexión.
 
-### Cambios de la versión 1.0.1
+La lectura es pública. La escritura en todas las ramas y etiquetas queda limitada a la administración del repositorio, ejercida por **@raulnora**. Cualquier cambio en esa autorización requiere una decisión expresa del propietario.
 
-La guía y la checklist se muestran completas en esta portada. Se simplifica la nota de procedencia y se conserva el contenido de las reglas aprobadas.
+### Cambios de la versión 1.0.2
+
+Se confirma este repositorio como fuente de verdad con archivos completos, lectura pública y escritura reservada al propietario. Se mantienen todas las reglas de desarrollo aprobadas.

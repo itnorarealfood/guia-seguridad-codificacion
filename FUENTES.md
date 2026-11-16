@@ -1,8 +1,10 @@
 # Procedencia y decisiones
 
-Versión **1.0.1** · 16 de noviembre de 2026
+Versión **1.0.2** · 16 de noviembre de 2026
 
-Esta guía es una adaptación redactada íntegramente en este repositorio. La referencia de origen sirve para registrar la procedencia; todas las reglas y la checklist están incluidas en el contenido local.
+Este repositorio es la **fuente de verdad** de la guía. Las normas vigentes son las redactadas y versionadas aquí; la guía y la checklist están completas en archivos locales.
+
+La referencia de origen registra la procedencia histórica de la adaptación. Su contenido no se sincroniza automáticamente ni determina las futuras ediciones de esta guía.
 
 ## Procedencia
 
@@ -22,6 +24,6 @@ La base indicada por el usuario fue la [documentación de desarrollo, rama dev](
 
 La detección automática se contrastó con las guías públicas de OWASP sobre [seguridad de CI/CD](https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html) y [gestión de secretos](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html).
 
-## Revisión 1.0.1
+## Revisión 1.0.2
 
-La portada incorpora el contenido completo de la guía y la checklist. Esta revisión cambia la presentación y reduce las referencias de procedencia; mantiene las decisiones de seguridad aprobadas.
+La guía pasa a lectura pública y la escritura queda reservada al propietario mediante reglas de protección para todas las ramas y etiquetas. Se mantiene el contenido de las decisiones de seguridad aprobadas.
