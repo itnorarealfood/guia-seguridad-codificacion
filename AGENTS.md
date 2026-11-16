@@ -4,7 +4,7 @@ Aplica estas instrucciones al construir o modificar una aplicación junto con la
 
 ## Antes de actuar
 
-1. Lee [GUIA.md](GUIA.md), los requisitos y las decisiones del proyecto.
+1. Lee la [guía completa](README.md), los requisitos y las decisiones del proyecto.
 2. Identifica datos sensibles, permisos, operaciones críticas y carga prevista.
 3. Resume qué vas a cambiar y cómo comprobarás el resultado.
 4. Si falta una decisión que afecte a seguridad, datos, alcance o complejidad, consúltala antes de ejecutar la parte dependiente.

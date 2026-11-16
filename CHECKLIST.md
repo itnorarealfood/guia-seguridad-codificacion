@@ -1,6 +1,6 @@
 # Checklist de entrega
 
-Versión 1.0.0 · 16 de noviembre de 2026
+Versión 1.0.1 · 16 de noviembre de 2026
 
 Aplicar a la entrega y al comportamiento que modifica. Marcar «no aplica» con una justificación cuando corresponda.
 

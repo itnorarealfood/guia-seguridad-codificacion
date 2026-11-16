@@ -1,6 +1,6 @@
 # Construir una aplicación segura y escalable
 
-Versión 1.0.0 · 16 de noviembre de 2026
+Versión 1.0.1 · 16 de noviembre de 2026
 
 ## 1. Definir antes de construir
 
@@ -87,7 +87,7 @@ Antes de aceptar cambios, una herramienta de detección de secretos debe revisar
 - Los informes no deben imprimir el valor completo del secreto.
 - El proyecto documenta la herramienta y el punto del flujo donde aplica el bloqueo.
 
-Este control se comprueba como parte de la entrega; no basta con declararlo en la documentación. Es la ampliación aprobada para esta edición. Véase la [referencia de OWASP sobre seguridad del desarrollo y secretos](https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html).
+Este control se comprueba como parte de la entrega; no basta con declararlo en la documentación.
 
 ## 6. Mantener datos correctos con reintentos y concurrencia
 
